@@ -11,4 +11,9 @@ When contributing to any of the workshops in this repository, we ask that you ma
 | --- | --- |
 | Projects Executive | [Will McGloughlin](https://github.com/wymcg) |
 | Projects Committee | [Jackie Cheng](https://github.com/JCheng1100)
-| | [Ethan Tabler](https://github.com/ethantabler)
+| | [Taylor Casavant](https://github.com/tsc061003)
+| | [Noah Stansbury](https://github.com/ns-div)
+| | [Amal Alsubaie](https://github.com/maldth)
+| | [Cole Baughman](https://github.com/ColeBaughman)
+| | [Luke Miller](https://github.com/Imperious74)
+| Advising | [Ethan Tabler](https://github.com/ethantabler)
